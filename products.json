@@ -1,0 +1,74 @@
+[
+  {
+    "image":"image/Cozynest - images/slide-1.jpg",
+    "title":"Attire",
+    "price":75.75,
+    "category":"clothing"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-2.jpg",
+    "title":"Jewellery",
+    "price":35.75,
+    "category":"accessories"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-3.jpg",
+    "title":"Decor",
+    "price":15.75,
+    "category":"decor"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-4.jpg",
+    "title":"Bag",
+    "price":85.75,
+    "category":"bags"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-5.jpg",
+    "title":"Wool panda Bag",
+    "price":20.75,
+    "category":"bags"
+   },
+
+  {
+    "image":"image/Cozynest - images/slide-6.jpg",
+    "title":"Decor",
+    "price":22.75,
+    "category":"decor"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-7.jpg",
+    "title":"ِAutumn",
+    "price":24.75,
+    "category":"decor"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-8.jpg",
+    "title":"Candle",
+    "price":10.75,
+    "category":"candles"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-9.jpg",
+    "title":"Art Wall Frame",
+    "price":32.75,
+    "category":"decor"
+   },
+
+   {
+    "image":"image/Cozynest - images/slide-10.jpg",
+    "title":"Autumn Leaf",
+    "price":25.75,
+    "category":"decor"
+   }
+]
+
+
+
