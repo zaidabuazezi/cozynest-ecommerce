@@ -28,7 +28,7 @@ Screenshots will be added soon.
 
 ## Live Demo:
 
-Live demo will be added soon.
+[View Live Demo](https://zaidabuazezi.github.io/cozynest-ecommerce/)
 
 ## Author:
 
