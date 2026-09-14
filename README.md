@@ -24,7 +24,19 @@ Responsive e-commerce website built with HTML, Tailwind CSS and Vanilla JavaScri
 
 ## Screenshots:
 
-Screenshots will be added soon.
+### Home
+![Home Page](screenshots/home.png)
+
+### Products
+![Products Section](screenshots/products.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Wishlist
+![Wishlist](screenshots/wishlist.png)
+
+
 
 ## Live Demo:
 
