@@ -47,3 +47,4 @@ Responsive e-commerce website built with HTML, Tailwind CSS and Vanilla JavaScri
 Zaid Abu Azezi
 
 
+Git Pull Test
